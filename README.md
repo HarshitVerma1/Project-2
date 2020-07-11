@@ -1,7 +1,7 @@
 ># Project-2
 
-*✅ This project is for beginner.
+* ✅ This project is for beginner.
 
-*✅ Language Translator, smallest Project in Python Very easy.
+* ✅ Language Translator, smallest Project in Python Very easy.
 
-*✅ In this Project , I am used only a simple open source API.
+* ✅ In this Project , I am used only a simple open source API.
